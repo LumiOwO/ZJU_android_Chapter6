@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="action_debug">调试</string>
+    <string name="action_newNote">编辑</string>
+    <string name="action_detail">详情</string>
+
+    <string name="hint">请在这里输入内容</string>
+    <string name="priority">优先级</string>
+    <string name="priority_high">高</string>
+    <string name="priority_mid">中</string>
+    <string name="priority_low">低</string>
+    <string name="priority_none">无</string>
+    <string name="confirm">确定</string>
+
+    <string name="text_empty">您没有输入任何内容</string>
+    <string name="db_error">数据库操作发生错误</string>
+    <string name="newnote_success">操作成功</string>
+
+    <string name="absolute_path">输出绝对路径</string>
+    <string name="request_permission">请求存储权限</string>
+
+    <string name="edit">编辑</string>
+
+
+</resources>
